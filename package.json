@@ -1,0 +1,8 @@
+{
+  "name": "rabbit-manager",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "rabbit-manager": "bin/rabbit-manager.js"
+  }
+}
