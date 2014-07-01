@@ -1,6 +1,4 @@
-/**
-
- */
+#!/bin/sh
 
 var program = module.exports = require('commander');
 
